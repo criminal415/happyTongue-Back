@@ -1,6 +1,6 @@
 # 항해 4주차 미니프로젝트2
 
-![Untitled](readme_img/Untitled.png)
+![image](https://user-images.githubusercontent.com/90595291/146783813-e08b8a71-5e28-4b62-8dc3-6f4c5038630a.png)
 
 # 해피텅!
 
@@ -28,13 +28,13 @@ Frontend
 
 Figma를 이용해 와이어프레임을 설계했습니다!
 
-![와이어프레임.jpg](readme_img/와이어프레임.jpg)
+![image](https://user-images.githubusercontent.com/90595291/146783971-01922991-287f-4687-bc74-1acac2805dcc.png)
 
 [https://www.figma.com/file/uUDubcptUhos77TzoODvyP/Untitled?node-id=0%3A1](https://www.figma.com/file/uUDubcptUhos77TzoODvyP/Untitled?node-id=0%3A1)
 
-![API.PNG](readme_img/API.png)
+![image](https://user-images.githubusercontent.com/90595291/146784096-554363b1-2a60-43a5-9658-e7b5abc551bd.png)
 
-![API2.PNG](readme_img/API2.png)
+![image](https://user-images.githubusercontent.com/90595291/146784364-8201d7c7-72fb-431a-963e-e8cfaa8d1681.png)
 
 # API 설계
 
